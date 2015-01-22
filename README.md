@@ -1,10 +1,10 @@
 # clojured-demo
 
-A Clojure library designed to ... well, that part is up to you.
+Demo source code from related ClojureD 2015 talk
 
 ## Usage
 
-FIXME
+see core.clj for demo examples
 
 ## License
 
